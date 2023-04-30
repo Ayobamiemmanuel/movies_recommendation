@@ -1,2 +1,2 @@
 # movies_recommendation
-Movies Recoomendation
+Movies Recommendation
