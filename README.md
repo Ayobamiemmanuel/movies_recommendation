@@ -17,14 +17,22 @@ users.csv contains information about individual users, including their index, us
 # Libraries
 This project uses the following libraries:
 
-pandas: for data manipulation and analysis/n
+pandas: for data manipulation and analysis
+
 numpy: for numerical operations
+
 warnings: to suppress warnings
+
 cosine_similarity: for computing the similarity between movies
+
 CountVectorizer: for text processing
+
 string: for text processing
+
 re: for text processing
+
 seaborn: for visualization
+
 nltk: for natural language processing
 
 # Conclusion
